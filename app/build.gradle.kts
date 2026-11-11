@@ -5,7 +5,7 @@ plugins {
 }
 
 android {
-  namespace = "com.example.aslapp"
+  namespace = "com.asl.app"
   compileSdk = 37
   defaultConfig {
     applicationId = "com.asl.app"
