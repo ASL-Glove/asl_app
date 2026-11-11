@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.aslapp.ui.theme
+package com.asl.app.ui.theme
 
 import android.os.Build
 import androidx.compose.foundation.isSystemInDarkTheme
@@ -62,4 +62,3 @@ fun ASLAppTheme(
         content = content
     )
 }
-

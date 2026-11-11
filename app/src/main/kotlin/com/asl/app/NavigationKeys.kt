@@ -1,4 +1,4 @@
-package com.example.aslapp
+package com.asl.app
 
 import androidx.navigation3.runtime.NavKey
 import kotlinx.serialization.Serializable

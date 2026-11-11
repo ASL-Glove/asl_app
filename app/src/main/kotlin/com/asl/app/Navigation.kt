@@ -1,4 +1,4 @@
-package com.example.aslapp
+package com.asl.app
 
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.safeDrawingPadding
@@ -8,7 +8,7 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation3.runtime.entryProvider
 import androidx.navigation3.runtime.rememberNavBackStack
 import androidx.navigation3.ui.NavDisplay
-import com.example.aslapp.ui.main.MainScreen
+import com.asl.app.ui.main.MainScreen
 
 @Composable
 fun MainNavigation() {

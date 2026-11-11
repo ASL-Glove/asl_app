@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.aslapp.ui.theme
+package com.asl.app.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
@@ -271,5 +271,3 @@ val surfaceContainerHighDarkHighContrast = Color(0xFF272A2D)
 val surfaceContainerHighestDarkHighContrast = Color(0xFF323538)
 
 */
-
-

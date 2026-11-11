@@ -1,4 +1,4 @@
-package com.example.aslapp.data
+package com.asl.app
 
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.flow

@@ -1,4 +1,4 @@
-package com.example.aslapp.ui.main
+package com.asl.app.ui.main
 
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Box
@@ -23,9 +23,9 @@ import androidx.compose.ui.unit.dp
 import androidx.lifecycle.compose.collectAsStateWithLifecycle
 import androidx.lifecycle.viewmodel.compose.viewModel
 import androidx.navigation3.runtime.NavKey
-import com.example.aslapp.R
-import com.example.aslapp.data.DefaultDataRepository
-import com.example.aslapp.ui.theme.ASLAppTheme
+import com.asl.app.R
+import com.asl.app.data.DefaultDataRepository
+import com.asl.app.ui.theme.ASLAppTheme
 
 @Composable
 fun MainScreen(
@@ -102,4 +102,3 @@ fun Greeting(name: String, modifier: Modifier = Modifier) {
 fun MainScreenPreview() {
   ASLAppTheme { MainScreen(listOf("Android")) }
 }
-

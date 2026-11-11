@@ -1,9 +1,9 @@
-package com.example.aslapp.ui.main
+package com.asl.app.ui.main
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
-import com.example.aslapp.data.DataRepository
-import com.example.aslapp.ui.main.MainScreenUiState.Success
+import com.asl.app.data.DataRepository
+import com.asl.app.ui.main.MainScreenUiState.Success
 import kotlinx.coroutines.flow.SharingStarted
 import kotlinx.coroutines.flow.StateFlow
 import kotlinx.coroutines.flow.catch

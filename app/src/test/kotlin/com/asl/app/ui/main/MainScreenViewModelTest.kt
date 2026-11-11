@@ -1,6 +1,6 @@
-package com.example.aslapp.ui.main
+package com.asl.app.ui.main
 
-import com.example.aslapp.data.DataRepository
+import com.asl.app.data.DataRepository
 import junit.framework.TestCase.assertEquals
 import kotlinx.coroutines.flow.Flow
 import kotlinx.coroutines.flow.first
